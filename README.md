@@ -7,3 +7,4 @@ application.
 ## Security Testing 
 This repository is configured to run Semgrep automatically using GitHub Actions.
 # student_portal_ASS
+# student_portal_ASS
